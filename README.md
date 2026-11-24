@@ -12,4 +12,4 @@ Starting with Linux. One concept at a time.
 
 Learn, practise, recall without notes, then document. Revisit each topic on days 2, 4, 7, 14 and 30 (adjust when needed).
 
-Only record work actually performed. Never commit credentials, employer data or private logs.
+
